@@ -12,7 +12,8 @@
 </ul>
 <br>
 * 참고) 프로젝트 환경설정을 편리하게 하려고 스프링 부트를 사용하는 것이다. 이번 프로젝트에서는 스프링 없이
-순수하게 자바로만 개발을 진행한다. (이후 다른 프로젝트에서 스프링을 사용해 다시 개발)
+순수하게 자바로만 개발을 진행한다. 
+(이후 다른 프로젝트에서 스프링을 사용해 다시 개발 : <a href="https://github.com/DebbieIsFree/core_spring">https://github.com/DebbieIsFree/core_spring</a>)
 
 ### Environment ###
 <img src="https://github.com/DebbieIsFree/core/assets/83392219/f5d87422-293f-4147-ba8d-f1357c5cfd11" width="60" height="40"/>
